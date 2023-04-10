@@ -76,7 +76,7 @@ window.title('Movie parser')
 window.config(padx=70, pady=70)
 
 canvas = Canvas(height=250, width=250) # Area for logo
-logo_img = PhotoImage(file='bsh_project/logo_0.png')
+logo_img = PhotoImage(file='logo_0.png')
 canvas.create_image(125, 90, image=logo_img) # Logo position
 canvas.grid(row=0, column=0, columnspan=3)
 
