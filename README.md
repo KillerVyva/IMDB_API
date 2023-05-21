@@ -1,4 +1,4 @@
-# BSH_Task2
+# IMDB_API
 Small application which shows a list of movies details by specified parameters written in Python and based on Tkinter  
 Data from: https://rapidapi.com/gox-ai-gox-ai-default/api/ott-details (OTT details)  
 In the main window (Movie parser), the user can set the parameters by which films will be selected:  
